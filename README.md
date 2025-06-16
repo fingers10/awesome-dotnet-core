@@ -967,6 +967,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [ASP.NET](https://forums.asp.net)
 * [Channel9](https://channel9.msdn.com)
 * [Awesome .NET open source & community resources](https://discoverdot.net)
+* [I ❤️ .NET - Practical .NET Tutorials](https://ilovedotnet.org)
 * [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 * [BuiltWithDot.Net](https://builtwithdot.net)
 * Stack Overflow
